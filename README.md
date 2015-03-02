@@ -6,5 +6,5 @@
 * **LightServerWeb** - HTML Web Pages and other resources used by LightServers internal web server to allow control via any web browser
 * **LightServer_Tiva_C_CC3100b.bin** - LightServer Application Binary
 
-Details on using these resources through the setup and installation process can be found on the LightServer Wiki - https://github.com/remixed123/LightServer/wiki
+Details on using these resources through the setup and installation process can be found on the LightServer Wiki - https://github.com/remixed123/LightServer_Resources/wiki
 
