@@ -1,18 +1,11 @@
 LightServer Boost BOM
 
 Qty   Part                Value              Package      Library                   Web
-<<<<<<< HEAD
+
  1     C1    1000uf Electrolitic Capacitor    E5-13       adafruit   
- 1    POWER      2.1mm DC barrel jack	   PJ-102AH     connectors   https://www.adafruit.com/products/373
- 1   LIGHTS   3.5mm 3-Pin Terminal Block  1X3-3.5MM      adafruit    https://www.adafruit.com/products/725
- 1    TEST   0.1" right-angle male header   1X03         adafruit    https://www.adafruit.com/products/1540
- 1   SUPPLY       0.1" male header	    1X02         adafruit    https://www.adafruit.com/products/392
- 1           3-pin JST SM Plug Cable Set                             https://www.adafruit.com/products/1663 
-=======
- 1     C1    1000uf Electrolytic Capacitor    E5-13       adafruit   
- 1    POWER      2.1mm DC barrel jack	       PJ-102AH     connectors   https://www.adafruit.com/products/373
- 1   LIGHTS   3.5mm 3-Pin Terminal Block    1X3-3.5MM      adafruit    https://www.adafruit.com/products/725
- 1    TEST   0.1" right-angle male header     1X03     adafruit    https://www.adafruit.com/products/1540
- 1   SUPPLY       0.1" male header	           1X02     adafruit    https://www.adafruit.com/products/392
- 1           3-pin JST SM Plug Cable Set                         https://www.adafruit.com/products/1663 
->>>>>>> origin/master
+ 1    POWER  2.1mm DC barrel jack	            PJ-102AH     connectors  https://www.adafruit.com/products/373
+ 1   LIGHTS  3.5mm 3-Pin Terminal Block       1X3-3.5MM    adafruit    https://www.adafruit.com/products/725
+ 1    TEST   0.1" right-angle male header     1X03         adafruit    https://www.adafruit.com/products/1540
+ 1   SUPPLY  0.1" male header	                1X02         adafruit    https://www.adafruit.com/products/392
+ 1           3-pin JST SM Plug Cable Set                               https://www.adafruit.com/products/1663 
+
